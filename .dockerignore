@@ -1,0 +1,48 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output (will be built inside container)
+dist
+tmp
+out-tsc
+bazel-out
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# Git
+.git
+.gitignore
+
+# Angular cache
+.angular
+.cache
+
+# Test coverage
+coverage
+.nyc_output
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Documentation
+README.md
+*.md
+
+# Screenshots and misc
+screenshots
+__screenshots__
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
